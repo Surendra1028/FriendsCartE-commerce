@@ -2,92 +2,34 @@
 
 Friends Cart is a full-stack e-commerce web application designed to provide a smooth and secure online shopping experience. The project focuses on core e-commerce functionalities such as product management, cart operations, coupon handling, and user feedback, along with secure authentication and optimized database interactions.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------
+
+This project is an enhanced version of a team-based e-commerce application.
+
 ## 🚀 Live Demo
-👉 https://surendra1028.github.io/FriendsCartE-commerce/
 
-## ✨ Features
 
-- 📦 **Product Catalog**
-  - Browse and view available products with details
-- 🛍️ **Cart Management**
-  - Add, remove, and update products in the shopping cart
-- 🎟️ **Coupon System**
-  - Apply discount coupons with validation logic
-- ⭐ **User Reviews & Ratings**
-  - Users can review products and give ratings
-- 🔐 **User Authentication**
-  - Secure login and registration system
-- ⚡ **Optimized Database Operations**
-  - Efficient data handling and queries for better performance
 
----
+## 💡 My Contributions
+I am working as a frontend Developer In This Project.
+* Improved UI/UX design
+* Enhanced mobile responsiveness
+* Added new features and optimizations
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
+* HTML, CSS, JavaScript
+* Node.js
+* MongoDB
 
-**Frontend**
-- EJS
-- HTML  
-- CSS  
-- JavaScript  
+## 👥 Note
+
+This project was originally developed as part of a team.
+I have independently enhanced and improved this version.
 
 ---
 
-## 📂 Project Structure (High Level)
+⭐ Feel free to explore and give feedback!
 
-Friends-Cart/                                                                   
-│                                                                   
-├── backend/                                                                   
-│ ├── routes/                                                                   
-│ ├── controllers/                                                                   
-│ ├── models/                                                                   
-│ └── config/                                                                   
-│                                                                   
-├── frontend/                                                                   
-│ ├── css/                                                                   
-│ ├── js/                                                                   
-│ └── index.html                                                                   
-│                                                                   
-├── package.json                                                                   
-└── README.md                                                                   
-                                                                   
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js
-- npm
-- MongoDB
-
-### Installation
-1. Clone the repository
-   ```bash
-   https://github.com/skmsajid/E-commerce.git
-Navigate to the project folder
-
-cd friends-cart
-Install dependencies
-
-npm install
-Start the server
-
-npm start
-🎯 Project Purpose
-This project was built to strengthen full-stack development skills by implementing real-world e-commerce features such as authentication, cart logic, coupon validation, and user-generated reviews.
-
-🔮 Future Enhancements
-Payment gateway integration
-
-Order history and tracking
-Improved UI/UX design
-
-Wishlist functionality
 
 
