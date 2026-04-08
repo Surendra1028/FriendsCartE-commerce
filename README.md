@@ -90,5 +90,4 @@ Improved UI/UX design
 
 Wishlist functionality
 
-👨‍💻 Author: 
-Shaik Mahammad Sajid
+
