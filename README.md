@@ -4,7 +4,7 @@ Friends Cart is a full-stack e-commerce web application designed to provide a sm
 
 ---
 ## 🚀 Live Demo
-👉 https://friendscart.onrender.com/
+👉 https://surendra1028.github.io/FriendsCartE-commerce/
 
 ## ✨ Features
 
